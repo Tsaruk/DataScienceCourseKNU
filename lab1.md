@@ -5,7 +5,7 @@ class(v1_character)
 v2_numeric<--11.6
 class(v2_numeric)
 
-v3_integer<-3L #ÂÊÀÇÓª, ÙÎ ÖÅ Ö²ËÅ ×ÈÑËÎ
+v3_integer<-3L #Ã‚ÃŠÃ€Ã‡Ã“Âª, Ã™ÃŽ Ã–Ã… Ã–Â²Ã‹Ã… Ã—ÃˆÃ‘Ã‹ÃŽ
 class(v3_integer)
 
 v4_complex<-2+2i
